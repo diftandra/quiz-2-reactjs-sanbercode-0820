@@ -1,0 +1,36 @@
+.frame {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 10px;
+  text-align: left;
+}
+
+.FrameDetail{
+  margin: 25px;
+  text-align: left;
+}
+
+.framePhoto {
+  width: 400px;
+  height: 250px;
+}
+
+img{
+  border-radius: 10px 10px 0 0;
+}
+
+.profileFrames{
+  margin: 0 20%;
+  text-align: center;
+}
+
+.upperProfileFrames {
+  display: flex;
+  flex-direction: row;
+}
+
+.lowerProfileFrames {
+  display: flex;
+  flex-direction: row;
+}
